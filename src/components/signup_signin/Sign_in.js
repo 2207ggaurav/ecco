@@ -95,7 +95,7 @@ const Sign_in = () => {
                 </div>
                 <div className="create_accountinfo">
                     <p>New to Amazon?</p>
-                    <button>  <NavLink to="https://amazonservice-0j2o.onrender.com/register">Create your Amazon Account</NavLink></button>
+                    <button>  <NavLink to="/register">Create your Amazon Account</NavLink></button>
                 </div>
             </div>
 
