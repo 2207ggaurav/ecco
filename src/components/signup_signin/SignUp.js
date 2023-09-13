@@ -115,7 +115,7 @@ const Signup = () => {
 
                         <div className="signin_info">
                             <p>Already have an account?</p>
-                            <NavLink to="https://amazonservice-0j2o.onrender.com/login">Sign in</NavLink>
+                            <NavLink to="/login">Sign in</NavLink>
                         </div>
                     </form>
                 </div>
